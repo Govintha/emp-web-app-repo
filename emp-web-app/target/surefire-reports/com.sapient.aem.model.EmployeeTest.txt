@@ -1,0 +1,68 @@
+-------------------------------------------------------------------------------
+Test set: com.sapient.aem.model.EmployeeTest
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 16, Errors: 0, Skipped: 0, Time elapsed: 0.063 s <<< FAILURE! - in com.sapient.aem.model.EmployeeTest
+com.sapient.aem.model.EmployeeTest.testGetEmpno  Time elapsed: 0.019 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testGetEmpno(EmployeeTest.java:21)
+
+com.sapient.aem.model.EmployeeTest.testGetEname  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testGetEname(EmployeeTest.java:31)
+
+com.sapient.aem.model.EmployeeTest.testGetComm  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testGetComm(EmployeeTest.java:81)
+
+com.sapient.aem.model.EmployeeTest.testSetHiredate  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testSetHiredate(EmployeeTest.java:66)
+
+com.sapient.aem.model.EmployeeTest.testGetHiredate  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testGetHiredate(EmployeeTest.java:61)
+
+com.sapient.aem.model.EmployeeTest.testSetDeptno  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testSetDeptno(EmployeeTest.java:96)
+
+com.sapient.aem.model.EmployeeTest.testGetDeptno  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testGetDeptno(EmployeeTest.java:91)
+
+com.sapient.aem.model.EmployeeTest.testGetJob  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testGetJob(EmployeeTest.java:41)
+
+com.sapient.aem.model.EmployeeTest.testGetMgr  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testGetMgr(EmployeeTest.java:51)
+
+com.sapient.aem.model.EmployeeTest.testGetSal  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testGetSal(EmployeeTest.java:71)
+
+com.sapient.aem.model.EmployeeTest.testSetComm  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testSetComm(EmployeeTest.java:86)
+
+com.sapient.aem.model.EmployeeTest.testSetJob  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testSetJob(EmployeeTest.java:46)
+
+com.sapient.aem.model.EmployeeTest.testSetMgr  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testSetMgr(EmployeeTest.java:56)
+
+com.sapient.aem.model.EmployeeTest.testSetSal  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testSetSal(EmployeeTest.java:76)
+
+com.sapient.aem.model.EmployeeTest.testSetEmpno  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testSetEmpno(EmployeeTest.java:26)
+
+com.sapient.aem.model.EmployeeTest.testSetEname  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.sapient.aem.model.EmployeeTest.testSetEname(EmployeeTest.java:36)
+
